@@ -1,0 +1,2 @@
+# tecnologianaguine
+Nova Geração em Tecnologia na Guiné-Bissau, é uma plataforma digital que foi criado no dia 10 de maio de 2020, por um grupo dos estudantes de diferentes áreas especialidades da tecnologia, com intuito de expandir o uso da tecnologia e as suas ferramentas na Guiné-Bissau de forma geral.  Compreendemos que a tecnologia tem um papel de disseminar e contribuir para a disseminação das questões mundiais, principalmente promovendo ensinamentos críticos na sociedade, além de promover o maior alcance possível aos meios de conhecimento.
